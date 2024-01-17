@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Valle</h1>
 <h3 align="center">I'm a computer systems engineer from Costa Rica</h3>
 
-- 🌱 I’m currently learning **Docker, Rust, PostgreSQL, Redis, Linux**
+- 🌱 I’m currently learning **Docker, Ruby, Rust, PostgreSQL, Redis, Linux**
 
 - 📫 How to reach me **diegovv1300@gmail.com**
 
